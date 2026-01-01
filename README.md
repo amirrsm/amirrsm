@@ -63,4 +63,7 @@ DevOps Engineer and Backend Developer with expertise in cloud infrastructure, au
 <a href="https://github.com/amirrsm" target="blank">
   <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="amirrsm" />
 </a>
+<a href="mailto:amirrezasalarimanesh1302@gmail.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="amirrsm" />
+</a>
 </p>
