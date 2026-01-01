@@ -1,19 +1,22 @@
 # 👋 Hi, I'm Amir
 
-<p align="left"> 
+<p align="center">
+<a href="https://linkedin.com/in/amirrsm/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="amirrsm" />
+</a>
+<a href="https://github.com/amirrsm" target="blank">
+  <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="amirrsm" />
+</a>
+<a href="mailto:amirrezasalarimanesh1302@gmail.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="amirrsm" />
+</a>
+</p>
+
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=amirrsm&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirrsm&theme=github_dark" alt="GitHub Profile Details" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirrsm&theme=github_dark" alt="GitHub Stats" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirrsm&theme=github_dark" alt="Repos per Language" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirrsm&theme=github_dark" alt="Most Commit Language" height="180" />
-</p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=amirrsm&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
 ### Cloud Explorer, Tech Innovator, Always learning, always building.
 #### Site Reliability Engineer | Backend Developer
@@ -66,17 +69,15 @@ DevOps Engineer and Backend Developer with expertise in cloud infrastructure, au
 </p>
 
 ---
-
-## 🤝 Connect with me
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirrsm&theme=github_dark" alt="GitHub Profile Details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirrsm&theme=github_dark" alt="GitHub Stats" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirrsm&theme=github_dark" alt="Repos per Language" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirrsm&theme=github_dark" alt="Most Commit Language" height="180" />
+</p>
 
 <p align="center">
-<a href="https://linkedin.com/in/amirrsm/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="amirrsm" />
-</a>
-<a href="https://github.com/amirrsm" target="blank">
-  <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="amirrsm" />
-</a>
-<a href="mailto:amirrezasalarimanesh1302@gmail.com" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="amirrsm" />
-</a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=amirrsm&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
